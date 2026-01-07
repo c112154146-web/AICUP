@@ -128,14 +128,6 @@ results = model.train(
 | **Batch Size** | `16` | 配合 T4 GPU 記憶體限制的最佳設定。 |
 | **Optimizer** | `Auto` | 自動選擇 (通常為 SGD + Momentum)。 |
 
-## 📝 聲明 (Disclaimer)
-
-本程式碼僅供學術研究與競賽交流使用。模型預測結果僅供參考，不應直接作為臨床診斷依據。
-
----
-
-*Maintained by TEAM_9088*
-
 ```
 
 ```
