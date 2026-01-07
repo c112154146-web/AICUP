@@ -11,7 +11,7 @@
 
 ## 📖 專案簡介 (Overview)
 
-本專案為 **2025 AI CUP 主動脈瓣物件偵測競賽** 的第一名解決方案 (Rank 1 Solution)。
+本專案為 **2025 AI CUP 主動脈瓣物件偵測競賽
 針對醫療影像數據量大且特徵細微的挑戰，我們採用了極致輕量化的 **YOLO12n (Nano)** 模型架構。透過 **遷移學習 (Transfer Learning)** 結合 **快速微調 (Rapid Fine-tuning)** 策略，僅需 **30 Epochs** 的訓練即可達到極高的偵測精度 (mAP > 0.93)，實現了準確度與運算效率的最佳平衡。
 
 ## 📂 檔案結構 (Repository Structure)
